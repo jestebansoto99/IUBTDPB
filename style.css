@@ -1,0 +1,37 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 0, 221, 0.322);
+    
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+input{
+    width: 10%;
+    padding: 5px;
+    margin-top: 5px;
+}
+button{
+    width: 100px;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(255, 0, 221);
+}
+body {
+    background-color: rgba(249, 253, 196, 0);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
